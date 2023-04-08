@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-04-07T23:28:21 AST" name="SuiteTesting" finished-at="2023-04-07T23:29:00 AST" duration-ms="38929">
+    <groups>
+    </groups>
+    <test started-at="2023-04-07T23:28:21 AST" name="TestingRegister" finished-at="2023-04-07T23:28:30 AST" duration-ms="9033">
+      <class name="com.reportsMercury.Prog.MercuryRegisterTest">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:com.reportsMercury.Prog.MercuryRegisterTest@18df8434]" started-at="2023-04-07T23:28:21 AST" name="beforeClass" finished-at="2023-04-07T23:28:27 AST" duration-ms="6116" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method signature="registerUser()[pri:0, instance:com.reportsMercury.Prog.MercuryRegisterTest@18df8434]" started-at="2023-04-07T23:28:27 AST" name="registerUser" finished-at="2023-04-07T23:28:30 AST" duration-ms="2727" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerUser -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:com.reportsMercury.Prog.MercuryRegisterTest@18df8434]" started-at="2023-04-07T23:28:30 AST" name="afterClass" finished-at="2023-04-07T23:28:30 AST" duration-ms="157" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.reportsMercury.Prog.MercuryRegisterTest -->
+    </test> <!-- TestingRegister -->
+    <test started-at="2023-04-07T23:28:30 AST" name="TestingLogin" finished-at="2023-04-07T23:28:38 AST" duration-ms="8433">
+      <class name="com.reportsMercury.Prog.MercuryLoginTest">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:com.reportsMercury.Prog.MercuryLoginTest@17f62e33]" started-at="2023-04-07T23:28:30 AST" name="beforeClass" finished-at="2023-04-07T23:28:35 AST" duration-ms="4791" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method signature="loginUser()[pri:0, instance:com.reportsMercury.Prog.MercuryLoginTest@17f62e33]" started-at="2023-04-07T23:28:35 AST" name="loginUser" finished-at="2023-04-07T23:28:38 AST" duration-ms="3500" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginUser -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:com.reportsMercury.Prog.MercuryLoginTest@17f62e33]" started-at="2023-04-07T23:28:38 AST" name="afterClass" finished-at="2023-04-07T23:28:38 AST" duration-ms="139" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.reportsMercury.Prog.MercuryLoginTest -->
+    </test> <!-- TestingLogin -->
+    <test started-at="2023-04-07T23:28:39 AST" name="TestingLogout" finished-at="2023-04-07T23:28:48 AST" duration-ms="9519">
+      <class name="com.reportsMercury.Prog.MercuryLogoutTest">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:com.reportsMercury.Prog.MercuryLogoutTest@3e8c3cb]" started-at="2023-04-07T23:28:39 AST" name="beforeClass" finished-at="2023-04-07T23:28:43 AST" duration-ms="4962" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method signature="logoutTest()[pri:0, instance:com.reportsMercury.Prog.MercuryLogoutTest@3e8c3cb]" started-at="2023-04-07T23:28:43 AST" name="logoutTest" finished-at="2023-04-07T23:28:48 AST" duration-ms="4325" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoutTest -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:com.reportsMercury.Prog.MercuryLogoutTest@3e8c3cb]" started-at="2023-04-07T23:28:48 AST" name="afterClass" finished-at="2023-04-07T23:28:48 AST" duration-ms="228" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.reportsMercury.Prog.MercuryLogoutTest -->
+    </test> <!-- TestingLogout -->
+    <test started-at="2023-04-07T23:28:48 AST" name="TestingFlights" finished-at="2023-04-07T23:28:53 AST" duration-ms="4768">
+      <class name="com.reportsMercury.Prog.MercuryFlightsTest">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:com.reportsMercury.Prog.MercuryFlightsTest@3b0fe47a]" started-at="2023-04-07T23:28:48 AST" name="beforeClass" finished-at="2023-04-07T23:28:51 AST" duration-ms="2949" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method signature="testFlights()[pri:0, instance:com.reportsMercury.Prog.MercuryFlightsTest@3b0fe47a]" started-at="2023-04-07T23:28:51 AST" name="testFlights" finished-at="2023-04-07T23:28:53 AST" duration-ms="1654" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFlights -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:com.reportsMercury.Prog.MercuryFlightsTest@3b0fe47a]" started-at="2023-04-07T23:28:53 AST" name="afterClass" finished-at="2023-04-07T23:28:53 AST" duration-ms="159" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.reportsMercury.Prog.MercuryFlightsTest -->
+    </test> <!-- TestingFlights -->
+    <test started-at="2023-04-07T23:28:53 AST" name="TestingSupport" finished-at="2023-04-07T23:29:00 AST" duration-ms="7086">
+      <class name="com.reportsMercury.Prog.MercurySupportTest">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:com.reportsMercury.Prog.MercurySupportTest@74d1dc36]" started-at="2023-04-07T23:28:53 AST" name="beforeClass" finished-at="2023-04-07T23:28:57 AST" duration-ms="4654" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method signature="SupportTest()[pri:0, instance:com.reportsMercury.Prog.MercurySupportTest@74d1dc36]" started-at="2023-04-07T23:28:57 AST" name="SupportTest" finished-at="2023-04-07T23:29:00 AST" duration-ms="2279" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SupportTest -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:com.reportsMercury.Prog.MercurySupportTest@74d1dc36]" started-at="2023-04-07T23:29:00 AST" name="afterClass" finished-at="2023-04-07T23:29:00 AST" duration-ms="148" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.reportsMercury.Prog.MercurySupportTest -->
+    </test> <!-- TestingSupport -->
+  </suite> <!-- SuiteTesting -->
+</testng-results>

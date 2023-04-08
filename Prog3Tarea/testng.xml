@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="SuiteTesting">
+  <test name="TestingRegister">
+    <classes>
+      <class name="com.reportsMercury.Prog.MercuryRegisterTest"/>
+    </classes>
+  </test> 
+  <test name="TestingLogin">
+    <classes>
+      <class name="com.reportsMercury.Prog.MercuryLoginTest"/>
+    </classes>
+  </test>
+  <test name="TestingLogout">
+    <classes>
+	  <class name="com.reportsMercury.Prog.MercuryLogoutTest"/>
+    </classes>
+  </test>
+  <test name="TestingFlights">
+    <classes>
+      <class name="com.reportsMercury.Prog.MercuryFlightsTest"/>
+    </classes>
+  </test>
+  <test name="TestingSupport">
+    <classes>
+      <class name="com.reportsMercury.Prog.MercurySupportTest"/>
+    </classes>
+  </test>
+</suite> <!-- SuiteTesting -->
